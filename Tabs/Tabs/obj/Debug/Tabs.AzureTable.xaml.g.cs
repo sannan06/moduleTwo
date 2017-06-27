@@ -11,7 +11,7 @@
 namespace Tabs {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/hafeezrehman/Desktop/Visual Studio Projects/Tabs/Tabs/AzureTable.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/hafeezrehman/Documents/GitHub/moduleTwo/Tabs/Tabs/AzureTable.xaml")]
     public partial class AzureTable : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
